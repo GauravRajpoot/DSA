@@ -1,4 +1,4 @@
-package com.slef.practise;
+package practice;
 
 import java.util.Arrays;
 import java.util.HashMap;
